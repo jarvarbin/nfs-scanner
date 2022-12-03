@@ -1,4 +1,5 @@
 # nfs-scanner
+```
 
 ⠀⠀⠀⠀⠐⣶⣶⣦⣤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣤⣀⡀⠀⠀⠀⠀⠀
@@ -13,6 +14,7 @@
 ⠀⠀⠀⠀⠀⢻⣿⢿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⣀⣠⣿⣿⠀⠀
 ⠀⠀⠀⠀⠀⠈⠁⠀⣿⡿⣿⡿⠓⠒⠒⠒⠒⠋⠁⠙⢿⣿⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠏⠀⠙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀
+```
 
 This script uses the nmap library to scan the specified subnet for hosts with open NFS ports (port 2049). It then loops through the hosts with open NFS ports and prints their hostnames and IP addresses.
 
